@@ -43,5 +43,5 @@ Industry-standard approach (used in FaceID-like systems)
 
 ## Demo
 
-![prediction](face_recognition/demo.png)
+![prediction](demo.png)
 
